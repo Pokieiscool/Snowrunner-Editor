@@ -39,4 +39,16 @@ The save files may or may not be updated in the future. Incase not please update
 
  ![Screenshot 2024-09-23 203033](https://github.com/user-attachments/assets/8d848892-200f-45f5-8f24-c5e4b878036c)
 
+ ## How to use 
+ 
+> 1. Download visual studio code or any code editor
+>
+> 2. Download python (with pip)
+>
+> 3. Pip install requirements.txt
+>
+> 4. Go to main.py and run it (Ctrl + f5)
+>
+ 
+
 
