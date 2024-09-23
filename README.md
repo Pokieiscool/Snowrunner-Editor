@@ -27,7 +27,7 @@ The save files may or may not be updated in the future. Incase not please update
 >
 > 2. Backup system
 >
-> 3. Unlock all trucks at any level
+> 3. Unlock all trucks at level 0
 >
 > 4. Use any truck in any region
 >
