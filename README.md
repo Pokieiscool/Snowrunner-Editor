@@ -22,7 +22,7 @@ The save files may or may not be updated in the future. Incase not please update
 
 > 1. All trucks free
 >
-> 2. All DLC Trucks free
+> 2. Backup system
 >
 > 3. Unlock all trucks at any level
 >
