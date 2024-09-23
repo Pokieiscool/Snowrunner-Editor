@@ -3,7 +3,7 @@ Snowrunner External Cheat (kind of)
 
 Vehicle, Movement and Recovery options.
 
-## WORKS BY CHANGING SAVE FILES. DOES NOT READ/WRITE MEMORY.
+## WORKS BY CHANGING SAVE & GAME FILES. DOES NOT READ/WRITE MEMORY.
 
 ## Sourced
 1. Tkinter -> [Tkinter](https://docs.python.org/3/library/tkinter.html) 
